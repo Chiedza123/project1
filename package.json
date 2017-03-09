@@ -1,0 +1,26 @@
+{
+  "name": "rhianna",
+  "version": "0.0.1",
+  "description": "first project it",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chiedza123/project1.git"
+  },
+  "keywords": [
+    "first",
+    "project"
+  ],
+  "author": "chiedza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chiedza123/project1/issues"
+  },
+  "homepage": "https://github.com/Chiedza123/project1#readme",
+  "devDependencies": {
+    "express-generator": "^4.14.1"
+  }
+}
